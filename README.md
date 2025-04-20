@@ -1,7 +1,5 @@
 # Apple Music 下载器  
-一款用于下载Apple Music歌曲、音乐视频和帖视频的Python命令行工具  
-
-**加入我们的Discord服务器:** https://discord.gg/aBjMEZ9tnq  
+一款用于下载Apple Music歌曲、音乐视频和帖视频的Python命令行工具    
 
 ## 功能特点  
 * **高品质音频**：支持AAC 256kbps等多种编码格式下载  
